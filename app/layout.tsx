@@ -3,7 +3,7 @@ import { spaceGrotesk } from "./fonts";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "FakeData - Generate Realistic Test Data",
+  title: "Mockly - Generate Realistic Test Data",
   description: "Generate realistic, customizable fake data for your applications, testing, and development needs.",
   icons: {
     icon: "/icon.svg",
